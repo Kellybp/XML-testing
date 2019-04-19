@@ -1,0 +1,19 @@
+<!DOCTYPE FamilyLetters [
+
+<!ENTITY f1 "Billy Sanders">
+<!ENTITY f2 "Grant Sanders">
+<!ENTITY f3 "Sarah Sanders">
+<!ENTITY f4 "George Sanders">
+
+<!ELEMENT letter (from,heading,body,date)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT date (month, day, year)>
+<!ELEMENT month (#PCDATA)>
+<!ELEMENT day (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+
+<!ATTLIST from family CDATA #REQUIRED>
+<!ATTLIST heading holiday CDATA #REQUIRED>
+]>

@@ -1,0 +1,10 @@
+<!DOCTYPE Experiences [
+
+<!ELEMENT experience (title,employment,employer,location,date)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT employment (#PCDATA)>
+<!ELEMENT employer (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+
+]>

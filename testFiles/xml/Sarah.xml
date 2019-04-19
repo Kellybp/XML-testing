@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FamilyLetters SYSTEM "dtd/FamilyLetters.dtd">
+<letters>
+	<letter>
+		<from family="false">
+			Management
+		</from>
+		<heading holiday="false">
+			Work
+		</heading>
+		<body>
+			Hey Sarah, I saw you working around the office and yeah, I am going to need you to just come in and work Saturday, yeah, thanks again 
+			Best,
+			Management
+		</body>
+		<date>
+			<month>6</month>
+			<day>23</day>
+			<year>2018</year>
+		</date>	
+	</letter>
+	<letter>
+		<from family="false">
+			GirlFriend@PartyHardy.edu
+		</from>
+		<heading holiday="false">
+			Work
+		</heading>
+		<body>
+			Hey Sarah, I saw you working around the office and yeah, I think you just need to loosen up girl! It is time you threw off those slack and started doing shots!
+		</body>
+		<date>
+			<month>5</month>
+			<day>22</day>
+			<year>2018</year>
+		</date>	
+	</letter>
+</letters>

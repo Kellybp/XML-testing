@@ -1,0 +1,12 @@
+<!DOCTYPE Schools [
+
+<!ELEMENT school (name,GPA,startingYear,endingYear,degrees+)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT GPA (#PCDATA)>
+<!ELEMENT startingYear (#PCDATA)>
+<!ELEMENT endingYear (month, day, year)>
+<!ELEMENT degrees (degree)>
+<!ELEMENT degree (#PCDATA)>
+
+<!ATTLIST name highSchool CDATA #REQUIRED>
+]>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FamilyLetters SYSTEM "dtd/FamilyLetters.dtd">
+<letters>
+	<letter>
+		<from family="false">
+			Humblepuff State
+		</from>
+		<heading holiday="false">
+			Get schooled yo
+		</heading>
+		<body>
+			Hello, this is Humblepuff school of tech offering you a full scholarship to a tech school that occationally has internet and severly undermines any actual tech students.
+			Please respond within seven hours of us sending you this message.
+		</body>
+		<date>
+			<month>2</month>
+			<day>03</day>
+			<year>2018</year>
+		</date>	
+	</letter>
+	<letter>
+		<from family="false">
+			Not government guy
+		</from>
+		<heading holiday="false">
+			What is up my home slice?
+		</heading>
+		<body>
+			Hello, just checking in to see if you found any of that swag devil's lettuce, you know; the jazz cabbage, the spiked salad, the routy rubarb, the spicy spiniach? 
+			You know what I mean right my brohannasuraus?
+		</body>
+		<date>
+			<month>5</month>
+			<day>04</day>
+			<year>2018</year>
+		</date>	
+	</letter>
+</letters>

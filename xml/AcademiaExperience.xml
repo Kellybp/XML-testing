@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE AExperiences SYSTEM "dtd/AExperiences.dtd">
+<AExperiences>
+	<AExperience>
+		<title>Taught and Participated in an Experimental Game Design Class</title>
+		<desc>Collaborated with a class of students with diverse skills to plan and develop game software</desc>
+		<tools>
+			<tool>C#</tool>
+			<tool>Inventor</tool>
+			<tool>Unity</tool>
+		</tools>
+	</AExperience>
+	<AExperience>
+		<title>Created a MVC Database Connections</title>
+		<desc>Created CRUD functionality for MVC that connects to a database using ASP.Net</desc>
+		<tools>
+			<tool>HTML</tool>
+			<tool>CSS</tool>
+			<tool>PHP</tool>
+			<tool>XML</tool>
+			<tool>VS</tool>
+		</tools>
+	</AExperience>
+	<AExperience>
+		<title>Created Pocket Sonar Software</title>
+		<desc>Collaborated with a fellow student to create and modify programs for a sonar to send and receive sound waves and to print outputs to a dynamic polar graph</desc>
+		<tools>
+			<tool>C++</tool>
+			<tool>PRO</tool>
+			<tool>ARD</tool>
+			<tool>PY</tool>
+			<tool>JAVA</tool>
+		</tools>
+	</AExperience>
+	<AExperience>
+		<title>Created Jacob the Card Playing Manikin</title>
+		<desc>Project Leader for team that created a theoretical setup for an AI to play the card game Coup with a voice synthesizer</desc>
+		<tools>
+			<tool>C#</tool>
+			<tool>VS</tool>
+		</tools>
+	</AExperience>
+	<AExperience>
+		<title>Created a Binary Converter</title>
+		<desc>Created a program that converts to: Binary, One’s Compliment, Two’s compliment, Hexadecimal, and Decimal</desc>
+		<tools>
+			<tool>C#</tool>
+			<tool>VS</tool>
+		</tools>
+	</AExperience>
+	<AExperience>
+		<title>Created a Car Loan Website</title>
+		<desc>Created a website to allow users to rent and return vehicles</desc>
+		<tools>
+			<tool>HTML</tool>
+			<tool>CSS</tool>
+			<tool>JS</tool>
+			<tool>PHP</tool>
+			<tool>XML</tool>
+			<tool>SQL</tool>
+			<tool>MAT</tool>
+			<tool>PHPMY</tool>
+			<tool>SUB</tool>
+		</tools>
+	</AExperience>
+	<AExperience>
+		<title>Recreated Facebook-esque Application</title>
+		<desc>Created a CMS that shares databases like Facebook</desc>
+		<tools>
+			<tool>HTML</tool>
+			<tool>CSS</tool>
+			<tool>JS</tool>
+			<tool>PHP</tool>
+			<tool>VS</tool>
+			<tool>SQL</tool>
+			<tool>MAT</tool>
+			<tool>PHPMY</tool>
+			<tool>SUB</tool>
+		</tools>
+	</AExperience>
+	<AExperience>
+		<title>Created Excel Accounting Program</title>
+		<desc>Created check logger for fictitious business</desc>
+		<tools>
+			<tool>VB</tool>
+			<tool>Excel</tool>
+		</tools>
+	</AExperience>
+	<AExperience>
+		<title>Created MVC for a Pizza Joint</title>
+		<desc>Created MVC for fictitious pizza joint for users to buy pizzas</desc>
+		<tools>
+			<tool>HTML</tool>
+			<tool>CSS</tool>
+			<tool>JS</tool>
+			<tool>C#</tool>
+			<tool>VS</tool>
+			<tool>BOOT</tool>
+		</tools>
+	</AExperience>
+</AExperiences>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Leaderships SYSTEM "dtd/Leaderships.dtd">
+<leaderships>
+	<leadership>
+		<title>PAL (Presidential Aspiring Leadership) Program</title>
+		<desc>*Led a team to develop a senior ball</desc>
+	</leadership>
+	<leadership>
+		<title>Vice President for Local ACM Chapter (Association for Computer Machinery)</title>
+		<desc>*Relayed information to and from Student Senate to Executive Board</desc>
+	</leadership>
+	<leadership>
+		<title>Eagle Scout</title>
+		<desc>*Order of the Arrow, Director of Program of the Western Gate District
+			<br/>*Active member, served as the highest position of Senior Patrol Leader, Order of the Arrow Representative, Historian, and Patrol Leader</desc>
+	</leadership>
+	<leadership>
+		<title>Game Jam Competition</title>
+		<desc>*Led multiple teams to develop a game in less than 48 hours</desc>
+	</leadership>
+</leaderships>

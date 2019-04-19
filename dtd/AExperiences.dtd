@@ -1,0 +1,9 @@
+<!DOCTYPE AExperiences [
+
+<!ELEMENT AExperience (title,desc,tools)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT desc (#PCDATA)>
+<!ELEMENT tools (tool+)>
+<!ELEMENT tool (#PCDATA)>
+
+]>

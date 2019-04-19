@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Experiences SYSTEM "dtd/Experiences.dtd">
+<experiences>
+	<experience>
+		<title>Software/Web Developer</title>
+		<employment>360Rize</employment>
+		<employer>Mike Kintner</employer>
+		<location>Olean, NY</location>
+		<date>2018</date>
+	</experience>
+	<experience>
+		<title>Help Desk Technician</title>
+		<employment>Alfred State</employment>
+		<employer>Krystal Perlman</employer>
+		<location>Alfred, NY</location>
+		<date>2017</date>
+	</experience>
+	<experience>
+		<title>Pianist</title>
+		<employment>St. Bonaventure</employment>
+		<employer>Holly Keenan</employer>
+		<location>Allegany, NY</location>
+		<date>2015</date>
+	</experience>
+	<experience>
+		<title>Software/Web Developer</title>
+		<employment>360Rize</employment>
+		<employer>Mike Kintner</employer>
+		<location>Olean, NY</location>
+		<date>2018</date>
+	</experience>
+</experiences>

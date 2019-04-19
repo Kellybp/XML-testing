@@ -1,0 +1,7 @@
+<!DOCTYPE Leaderships [
+
+<!ELEMENT leadership (title,desc)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT desc (#PCDATA)>
+
+]>

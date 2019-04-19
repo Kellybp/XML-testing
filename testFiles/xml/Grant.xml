@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FamilyLetters SYSTEM "dtd/FamilyLetters.dtd">
+<letters>
+	<letter>
+		<from family="false">
+			MyRyesAreRedBecauseOfThePool@cheapWeed.com
+		</from>
+		<heading holiday="false">
+			Life
+		</heading>
+		<body>
+			Man, life is so crazy man, like if all the spot animals just tried to work a little harder with light bulbs this world would have so much like piece and stuff
+		</body>
+		<date>
+			<month>3</month>
+			<day>14</day>
+			<year>2018</year>
+		</date>	
+	</letter>
+	<letter>
+		<from family="false">
+			Artstudent@MylifeisHard.feedmyattention
+		</from>
+		<heading holiday="false">
+			My life is so difficult
+		</heading>
+		<body>
+			Grant, I staied up all knight just trynig to finsih this project!!! Can you belive how much I have to work here! My silly professor assigned this on the first week, how the heck am I supposed to finish it in the last week I MEAN COME ON! That is so unreasonable. I am only a freshman and I am sure I already know what treu art is so they should try to keep up with m talant.
+		</body>
+		<date>
+			<month>7</month>
+			<day>05</day>
+			<year>2018</year>
+		</date>	
+	</letter>
+</letters>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FamilyLetters SYSTEM "dtd/FamilyLetters.dtd">
+<letters>
+	<letter>
+		<from family="false">
+			John's Seawater Saltfish Restaurant
+		</from>
+		<heading holiday="false">
+			Work
+		</heading>
+		<body>
+			Goo Morning George, I know our cooking department is a little run down and I am so happy you decided to get voluntold to run our staff. As you know, many of our staff do not quite do their jobs up to standard, but that's okay becuase you will be there to pick up the slack! Also, please be advised that we are also currently understaffed and you will also be making up for that deficit. 
+			P.S. We are also moving a sizable portion of our budget to the Custodial department because we think they are really the shinning light of our business and we would like to put more emphasis on them.
+			Engoy, 
+			John
+		</body>
+		<date>
+			<month>8</month>
+			<day>01</day>
+			<year>2018</year>
+		</date>	
+	</letter>
+</letters>

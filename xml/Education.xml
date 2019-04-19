@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Schools SYSTEM "dtd/Schools.dtd">
+<schools>
+	<school>
+		<name highSchool="false">Alfred State - SUNY College of Technology</name>
+		<GPA>3.75</GPA>
+		<startingYear>2015</startingYear>
+		<endingYear>2019</endingYear>
+		<degrees>
+			<degree>Bachelor of Technology: Application Software Development</degree>
+			<degree>Associates: Computer Information Systems</degree>
+			<degree>Minor: Web Development</degree>
+		</degrees>
+	</school>
+	<school>
+		<name highSchool="true">Allegany Limestone High School</name>
+		<GPA>94</GPA>
+		<startingYear>2009</startingYear>
+		<endingYear>2015</endingYear>
+		<degrees>
+			<degree>Advanced Regents Diploma</degree>
+		</degrees>
+	</school>
+</schools>
